@@ -1,2 +1,3 @@
-# Prepcourse-Henry
-Este es un repositorio de prueba del modulo 2 del prepcourse henry
+Franklin Pereira
+
+Este repositorio es una prueba decomo crear un repositorio y clonarlo al escritorio local
